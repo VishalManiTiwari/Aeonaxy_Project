@@ -39,7 +39,7 @@ const UserInterestPage = () => {
         <p className='border border-green-500 w-[32%]'></p>
       </div>
       <Link to="/">
-      <p className='text-[gray] text-[20px] relative top-1 xl:mr-[67rem] mr-[18rem]  md:mr-[35rem]'><FaAngleLeft /></p>
+      <p className='text-[gray] text-[20px] relative top-1 xl:mr-[67rem] mr-[18rem]  md:mr-[42rem]'><FaAngleLeft /></p>
       </Link>
       <h2 className="text-2xl font-bold py-5 mb-4">Which are you most interested in?</h2>
       <p className="text-gray-600 mb-8">Choose just one. This will help us get you started (but won't limit your experience).</p>

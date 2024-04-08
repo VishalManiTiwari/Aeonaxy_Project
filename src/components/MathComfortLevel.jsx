@@ -23,7 +23,7 @@ const MathComfortLevel = () => {
         <p className='border border-green-500 w-[64%]'></p>
       </div>
        <Link to="/userinterest">
-      <p className='text-[gray] text-[20px] relative xl:mr-[69rem] mr-[19rem] md:top-[4px] top-1 xl:top-[4px] md:mr-[36.5rem]'><FaAngleLeft /></p>
+      <p className='text-[gray] text-[20px] relative xl:mr-[69rem] mr-[19rem] md:top-[4px] top-1 xl:top-[4px] md:mr-[45rem]'><FaAngleLeft /></p>
       </Link>
       <div className="bg-white rounded-md shadow-md p-6 max-w-lg">
         <h2 className="text-2xl font-bold mb-4">What is your math comfort level?</h2>

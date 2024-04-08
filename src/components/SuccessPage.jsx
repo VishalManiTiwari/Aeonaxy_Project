@@ -10,7 +10,7 @@ const SuccessPage = () => {
         <p className='border border-green-500 w-[100%]'></p>
       </div>
        <Link to="/mathcomfort">
-      <p className='text-[gray] text-[20px] relative top-[4px] xl:mr-[68rem] mr-[17.5rem] md:mr-[35rem]'><FaAngleLeft /></p>
+      <p className='text-[gray] text-[20px] relative top-[4px] xl:mr-[68rem] mr-[17rem] md:mr-[45rem]'><FaAngleLeft /></p>
       </Link>
       <div className="xl:flex md:flex gap-[5rem] items-center">
         <div className="relative mt-7 ml-5 mb-8 md:mb-0">

@@ -30,15 +30,15 @@ const LearningPathsPage = () => {
   
 
   return (
-    <div className="flex flex-col items-center justify-center min-h-screen bg-white">
-      <h2 className="text-2xl xl:text-[3rem] font-bold mb-4">
+    <div className="flex flex-col items-center w-full justify-center min-h-screen bg-white">
+      <h2 className="text-2xl xl:text-[3rem] ml-[1rem] font-bold mb-4">
         Learning paths based on your answers
       </h2>
-      <p className="text-gray-600 xl:text-[1.5rem] mb-8">
+      <p className="text-gray-600 xl:text-[1.5rem] ml-[1rem] mb-8">
         Choose one to get started. You can switch anytime.
       </p>
 
-      <p className='relative text-[13px] font-semibold top-2 mr-[19rem]  bg-yellow-500 rounded-full px-3 h-[1.5rem]'>MOST POPULAR</p>
+      <p className='relative text-[13px] font-semibold top-2 ml-[1rem] lg:ml-[-24rem] md:ml-[-17rem]  bg-yellow-500 rounded-full px-3 h-[1.5rem]'>MOST POPULAR</p>
        <div className='flex xl:flex md:flex grid sm: gap-4 xl:gap-[12px]'>
         <div className='flex xl:w-[25rem] xl:h-[8rem] xl:items-center shadow-md border rounded-md border-gray-300 p-4'>
           
